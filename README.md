@@ -2,7 +2,7 @@
 - My name is Raul, and I'm a student at Technical University of Cluj Napoca, computer science department.
   - 🔭 I'm interested in Spring Boot and all its works.
   - 🌱 I’m currently learning React and Vite.
-  - ⚡ I'm currently working on a Movie diary app, with an integrated social side and AI recommendations. Check it out (https://github.com/RaulN11/MovieWatchlist.git)
+  - ⚡ I'm currently working on a movie diary app, with an integrated social side and AI recommendations. Check it out (https://github.com/RaulN11/MovieWatchlist.git)
   - 🤔 I’m looking for work oportunities.
   - 📫 You can reach me here: https://www.linkedin.com/in/raul-emil-nicula-97090a399/
 <!--
