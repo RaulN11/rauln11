@@ -1,10 +1,10 @@
 ## Hi there.
 - My name is Raul, and I'm a student at Technical University of Cluj Napoca, computer science department.
-- 🔭 I'm interested in Spring Boot and all its works.
-- 🌱 I’m currently learning React and Vite.
-- ⚡ I'm currently working on a Movie diary app, with an integrated social side and AI recommendations. Check it out (https://github.com/RaulN11/MovieWatchlist.git)
-- 🤔 I’m looking for work oportunities.
-- 📫 You can reach me here: https://www.linkedin.com/in/raul-emil-nicula-97090a399/
+  - 🔭 I'm interested in Spring Boot and all its works.
+  - 🌱 I’m currently learning React and Vite.
+  - ⚡ I'm currently working on a Movie diary app, with an integrated social side and AI recommendations. Check it out (https://github.com/RaulN11/MovieWatchlist.git)
+  - 🤔 I’m looking for work oportunities.
+  - 📫 You can reach me here: https://www.linkedin.com/in/raul-emil-nicula-97090a399/
 <!--
 **RaulN11/rauln11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
